@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Event on PASCAL</title>
+    <link>https://www.pascalpdx.org/tags/event/</link>
+    <description>Recent content in Event on PASCAL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.pascalpdx.org/tags/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BSides PDX 2018: Friday After Party @ PASCAL</title>
+      <link>https://www.pascalpdx.org/post/bsidespdx2018/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.pascalpdx.org/post/bsidespdx2018/</guid>
+      <description>Friday Evening Party at PASCAL - 7 PM - END PASCAL is hosting the Friday night after-party for BSidesPDX on October 26th! Doors open at 7 pm. Located at the new location within Audiocinema: 226 SE Madison St.
+Entrance is through the side green door under the bridge. Parking is outside this door and around the block.
+Map To PASCAL
+Beer and non alcoholic refreshments will be provided on the house by PASCAL.</description>
+    </item>
+    
+    <item>
+      <title>Hack2Learn &#43; Hacktoberfest @PASCAL</title>
+      <link>https://www.pascalpdx.org/post/hacktoberfest2018/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.pascalpdx.org/post/hacktoberfest2018/</guid>
+      <description>What is Hacktoberfest?
+Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio.
+ Hacktoberfest is open to everyone in our global community!
+ Five quality pull requests must be submitted to public GitHub repositories.
+ You can sign up any time between October 1 and October 31.
+ Pull Requests from before you officially register still count.
+ The first 50,000 completions of 5 pull requests will be awarded a free (shipping included) t-shirt at the end of October.</description>
+    </item>
+    
+    <item>
+      <title>Hacktoberfest 2018</title>
+      <link>https://www.pascalpdx.org/project/hacktoberfest2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.pascalpdx.org/project/hacktoberfest2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

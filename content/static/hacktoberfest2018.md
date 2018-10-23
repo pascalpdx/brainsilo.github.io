@@ -1,1 +1,0 @@
-<center>![](/static/images/hacktoberfest/2018/spooky.png)</center>
